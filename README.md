@@ -1,5 +1,5 @@
 # portafolio de Sharon Bototo
-mi informacion de contacto, habilidades y proyectos realizados
+Mi informacion de contacto, habilidades y proyectos realizados.
 
 ### Que es GitHub?
 
