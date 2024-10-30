@@ -34,7 +34,9 @@ Almacenar tu código en un "repositorio" en GitHub te permite:
 ![](https://docs.github.com/assets/cb-29762/mw-1440/images/help/repository/repo-create-global-nav-update.webp)
 
 2 Escribe un nombre corto y fácil de recordar para el repositorio. Por ejemplo: "portafolio". 
+<br> 
 3 Seleccione Initialize this repository with a README (Inicializar este repositorio con un archivo Léame).
+<br> 
 4 Haz clic en Create repository (Crear repositorio).
 
 ![](https://www.mclibre.org/consultar/informatica/img/git/github-repositorios-crear-03.png)
